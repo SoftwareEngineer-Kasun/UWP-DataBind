@@ -1,0 +1,4 @@
+//element A
+x:Nmae="Test"
+//Element B
+Text="{Binding ElementName=Test,Path=Text}" //bind to the text property
